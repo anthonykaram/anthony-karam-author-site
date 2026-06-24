@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | Anthony Karam</title>
+  <meta name="description" content="Contact Anthony Karam about his books.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html">Anthony Karam</a>
+    <nav aria-label="Main navigation">
+      <a href="index.html">Home</a>
+      <a href="books.html">Books</a>
+      <a href="contact.html" aria-current="page">Contact</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="page-heading">
+      <p class="eyebrow">Contact</p>
+      <h1>Contact Anthony Karam</h1>
+      <p class="lead">Please use the form below for official author communication about Anthony Karam’s books.</p>
+    </section>
+
+    <section class="card">
+      <h2>Send a message</h2>
+      <p class="note">This form forwards messages to Anthony Karam’s official author email address without displaying that address on this page.</p>
+      <form action="https://formspree.io/f/mvzjzdqd" method="POST" class="contact-form">
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" autocomplete="name" required>
+
+        <label for="email">Email</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="7" required></textarea>
+
+        <input type="hidden" name="_subject" value="Author website contact form message">
+        <button type="submit">Send message</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; <span id="year">2026</span> Anthony Karam. All rights reserved.</p>
+  </footer>
+</body>
+</html>
