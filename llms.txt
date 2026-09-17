@@ -1,0 +1,16 @@
+# Anthony Karam — Official Author Website
+
+> Official website for Anthony Karam, an engineer and children's book creator in Chandler, Arizona, originally from Lexington, Kentucky.
+
+This site provides biographical information about Anthony Karam, a catalog of his published books, links to official author profiles, and contact information. The books include the Picture Crosswords activity book and a growing series of hyper-local alphabet coloring books for children.
+
+## Main Pages
+
+- [Home](https://anthonykaram.github.io/anthony-karam-author-site/): Official author homepage with biography, profile photo, and links to external author profiles.
+- [Books](https://anthonykaram.github.io/anthony-karam-author-site/books.html): Current catalog of books by Anthony Karam, including Picture Crosswords and local alphabet coloring books, with links to their Amazon listings.
+- [Contact](https://anthonykaram.github.io/anthony-karam-author-site/contact.html): Contact page for Anthony Karam.
+
+## Official Author Profiles
+
+- [Amazon Author Page](https://www.amazon.com/author/anthonykaram): Anthony Karam's Amazon author profile and book listings.
+- [Goodreads Author Page](https://www.goodreads.com/author/show/60850967.Anthony_Karam): Anthony Karam's Goodreads author profile.
